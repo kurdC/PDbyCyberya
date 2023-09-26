@@ -10,11 +10,17 @@ nh rootles without any issues in Termux
 
   pkg update&&pkg  upgrade
   pkg install git
+  
   git clone https://github.com/kurdC/PDCyberya
+  
   chmod +x PDCYBERYA.sh
+  
   bash PDCYBERYA.sh
 
+  
   this process may take some time
+
+  
   then exit termux by typing:
   exit
 
