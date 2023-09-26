@@ -1,10 +1,9 @@
 # PDCEYBERYA by Roney Drick
 
 
-
+##
 new method to install
 nh rootles without any issues in Termux
-/
 ###installation:
 
 '''
