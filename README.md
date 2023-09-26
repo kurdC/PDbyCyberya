@@ -7,14 +7,14 @@
 
 ## installation :
 
-installation :
-‘‘‘
+ex Installation:
+"""
 pkg update&&pkg  upgrade
 pkg install git
 git clone https://github.com/kurdC/PDCyberya
 chmod +x PDCYBERYA.sh
 bash PDCYBERYA.sh
-‘‘‘
+"""
 this /process may take some time
 when finished
 then exit termux by typing:
@@ -28,6 +28,6 @@ nh
 '''to login
 
 
-#### My_Channels :
+### My_Channels :
 [Youtube](https://www.youtube.com/@cyberyaku)-My yt channel
 [Tellegram](https://t.me/cyberiasec) - My Telegram channel
