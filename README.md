@@ -3,7 +3,7 @@
 
 
 new method to install
-  nh rootles without any issues in Termux
+nh rootles without any issues in Termux
 
 
   installation:
