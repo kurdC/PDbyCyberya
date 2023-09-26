@@ -1,11 +1,11 @@
 # PDCEYBERYA by Roney Drick
 
 
-##
+
  new method to install
  nh rootles without any issues in Termux
 
-###installation:
+## installation :
 
 installation :
 ‘‘‘
@@ -28,6 +28,6 @@ nh
 '''to login
 
 
-#####My_Channels
+#### My_Channels :
 [Youtube](https://www.youtube.com/@cyberyaku)-My yt channel
 [Tellegram](https://t.me/cyberiasec) - My Telegram channel
