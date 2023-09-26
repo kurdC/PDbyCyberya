@@ -2,17 +2,19 @@
 
 
 ##
-new method to install
-nh rootles without any issues in Termux
+ new method to install
+ nh rootles without any issues in Termux
+
 ###installation:
 
-’’’
+installation :
+‘‘‘
 pkg update&&pkg  upgrade
 pkg install git
 git clone https://github.com/kurdC/PDCyberya
 chmod +x PDCYBERYA.sh
 bash PDCYBERYA.sh
-’’’
+‘‘‘
 this /process may take some time
 when finished
 then exit termux by typing:
