@@ -25,10 +25,10 @@ nh rootles without any issues in Termux
   exit
 
 
-qcommands:
+commands:
 type nh to login
 
-  nh
+  $nh$
 
 
 my youtube channel:
